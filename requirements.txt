@@ -1,4 +1,2 @@
-# requirements.txt for poc
-# Add pip-installable dependencies here, e.g.
-# flask==2.2.5
-# requests==2.31.0
+Flask
+gunicorn
